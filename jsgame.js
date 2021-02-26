@@ -12,7 +12,7 @@ function printx(number){
   isko.innerText=sign;
   winner();
   checksign();
- disp.innerHTML="<center>" + "Current Player:"+"+ "sign" +</center>";
+ disp.innerHTML="<center>" + "Current Player:" + sign + "</center>";
  
   }
   
